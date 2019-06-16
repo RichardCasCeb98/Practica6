@@ -1,8 +1,8 @@
 package es.grupostudium.Practica6;
 
 public class Moto {
-	String matricula;
-	int cilindrada;
+	private String matricula;
+	private int cilindrada;
 
 	public Moto() {
 		matricula = "";
