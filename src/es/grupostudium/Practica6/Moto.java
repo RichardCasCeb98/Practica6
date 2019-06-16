@@ -8,7 +8,11 @@ public class Moto {
 		matricula = "";
 		cilindrada = 0;
 	}
-
+	/**
+	 * 
+	 * @param m matricula: matricula de la moto.
+	 * @param c cilindrada: Nos dice la cilindrada que tiene la moto.
+	 */
 	public Moto(String m, int c) {
 		matricula = m;
 		cilindrada = c;
